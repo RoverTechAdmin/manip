@@ -1,0 +1,28 @@
+# VS Code налаштування
+.vscode/
+
+# CMake build каталоги
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Бінарні файли
+*.o
+*.obj
+*.exe
+*.out
+*.app
+*.so
+*.a
+*.dll
+
+# Логи та тимчасові файли
+*.log
+*.tmp
+*.swp
+
+# Системні файли
+.DS_Store
+Thumbs.db
